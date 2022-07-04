@@ -44,17 +44,17 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: #1E90FF;
 	outline: none;
-	color: black;
+	color: #F8F8FF;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: yellow;
+	color: #F8F8FF;
 }
 
 .black p {
 	font-size: 18px;
-	color: white;
+	color: #F8F8FF;
 }
